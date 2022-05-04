@@ -5,7 +5,7 @@
 	"rules": {
 		"events": [
 			{
-				"name": "Demo Test",
+				"name": "Demo Test Event",
 				"rules": {
 					"$schema": "http://json-schema.org/draft-07/schema#",
 					"properties": {
@@ -23,7 +23,7 @@
 				"version": 1
 			},
 			{
-				"name": "Demo Test Event",
+				"name": "Demo Test Event !!!",
 				"rules": {
 					"$schema": "http://json-schema.org/draft-07/schema#",
 					"properties": {
@@ -318,5 +318,5 @@
 		"identify_traits": [
 		]
 	},
-	"update_time": "2022-03-17T22:11:13.000Z"
+	"update_time": "2022-05-04T15:25:09.000Z"
 }
